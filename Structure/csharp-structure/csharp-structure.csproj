@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BCB468BA-37DB-4336-A81A-B6E678BB6AE3}</ProjectGuid>
+    <ProjectGuid>{2AAB6219-1C70-4D47-9417-3AF8D9013460}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>csharp_basics</RootNamespace>
-    <AssemblyName>csharp-basics</AssemblyName>
+    <RootNamespace>csharp_structure</RootNamespace>
+    <AssemblyName>csharp-structure</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -45,7 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Snippet1.cs" />
+    <Compile Include="Contract1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -7,14 +7,32 @@ The structure is laid out below into sub-categories. Under each category there i
 
 Each category will contain orgainized snippets for each language
 
-## [Basics](./Basics)
-- csharp
-    - Snippet1
-- python
+# [Basics](./Basics)
+### [C#](./Basics/csharp-basics)
+- [Snippet1](./Basics/csharp-basics/Snippet1.cs)
 
-## Structure 
+### [Python](./Basics/python-basics)
 
-## Handeling Data Types
+<br>
 
-## Storage
+# [Structure](./Structure)
+### [C#](./Structure/csharp-structure)
+
+### [Python](./Structure/python-structure)
+
+<br>
+
+# [Handling Data Types](./HandlingDataTypes)
+### [C#](./HandlingDataTypes/csharp-handling-data-types)
+
+### [Python](./HandlingDataTypes/python-handling-data-types)
+
+<br>
+
+# [Storage](./Storage)
+### [C#](./Storage/csharp-storage)
+
+### [Python](./Storage/python-storage)
+
+<br>
 
