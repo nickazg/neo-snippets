@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="./neo-snippets-logo-solo.png"
+    width="300px;">
+</p>
+
 # neo-snippets
 A NEO repository containing community created examples and information to guide NEO Development
 
