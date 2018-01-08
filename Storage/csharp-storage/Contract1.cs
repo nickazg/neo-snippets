@@ -37,7 +37,8 @@ namespace CSharpStorage
                 for (int i = 0; i < 5; i++)
                 {
                     y = 2 * y;
-                    Runtime.Notify("y = 2 * y", y);
+                    
+                    Runtime.Notify("multiply by two", y);
                 }
 
                 return 3;
