@@ -7,7 +7,10 @@ The structure is laid out below into sub-categories. Under each category there i
 
 Each category will contain orgainized snippets for each language
 
-## Basics
+## [Basics](./Basics)
+- csharp
+    - Snippet1
+- python
 
 ## Structure 
 
