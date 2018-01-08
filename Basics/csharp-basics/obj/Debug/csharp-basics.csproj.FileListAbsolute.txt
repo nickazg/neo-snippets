@@ -1,7 +1,0 @@
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\obj\Debug\csharp-basics.csprojResolveAssemblyReference.cache
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\obj\Debug\csharp-basics.csproj.CoreCompileInputs.cache
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\bin\Debug\csharp-basics.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\bin\Debug\csharp-basics.pdb
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\bin\Debug\Neo.SmartContract.Framework.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\obj\Debug\csharp-basics.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Basics\csharp-basics\obj\Debug\csharp-basics.pdb
