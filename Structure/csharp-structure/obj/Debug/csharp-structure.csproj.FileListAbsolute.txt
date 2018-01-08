@@ -1,7 +1,0 @@
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\bin\Debug\csharp-structure.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\bin\Debug\csharp-structure.pdb
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\bin\Debug\Neo.SmartContract.Framework.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\obj\Debug\csharp-structure.csprojResolveAssemblyReference.cache
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\obj\Debug\csharp-structure.csproj.CoreCompileInputs.cache
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\obj\Debug\csharp-structure.dll
-Z:\Users\nick\Documents\Git\NeoDev\neo-snippets\Structure\csharp-structure\obj\Debug\csharp-structure.pdb

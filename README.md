@@ -7,9 +7,9 @@
 <h1 align="center">NEO Snippets</h1>
 
 
-A NEO repository containing community created examples and information to guide NEO Development
+A NEO repository containing code snippets, descriptions and code practices for NEO Developers
 
-Currently Neo development information is all over the place and sometimes hard to find and keep track of. The goal of this repo is to provide a central, up-to-date place to understand how each aspect works and how experienced members of the community are using it to set a standard.
+Currently Neo development information is all over the place and sometimes hard to find and keep track of, and often most devs fall into the same pitfalls. The goal of this repo is to provide a central, up-to-date location where expericed DEV's can submit code snippets and descriptions to help create a standard NEO code practice.
 
 The structure is laid out below into sub-categories. Under each category there is a basic README.md with a summary of how its used and where to get started. 
 
@@ -17,16 +17,9 @@ Each category will contain orgainized snippets for each language
 
 # [Basics](./Basics)
 ### [C#](./Basics/csharp-basics)
-- [Snippet1](./Basics/csharp-basics/Snippet1.cs)
+- [BasicTemplate](./Basics/csharp-basics/BasicTemplate.cs)
 
 ### [Python](./Basics/python-basics)
-
-<br>
-
-# [Structure](./Structure)
-### [C#](./Structure/csharp-structure)
-
-### [Python](./Structure/python-structure)
 
 <br>
 
