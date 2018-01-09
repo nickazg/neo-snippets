@@ -32,8 +32,16 @@ Each category will contain orgainized snippets for each language
 
 # [Storage](./Storage)
 ### [C#](./Storage/csharp-storage)
+- [Put and Get functionality](./Storage/csharp-storage/CSharpStorage.cs)
 
 ### [Python](./Storage/python-storage)
 
 <br>
 
+# [Transactions](./Transactions)
+### [C#](./Transactions/csharp-transactions)
+- [Retrieveing data from Transaction Outputs](./Transactions/csharp-transactions/TransactionOutputs.cs)
+
+### [Python](./Transactions/python-transactions)
+
+<br>

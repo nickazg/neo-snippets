@@ -3,7 +3,7 @@ using Neo.SmartContract.Framework.Services.Neo;
 using Neo.SmartContract.Framework.Services.System;
 using System;
 
-namespace csharp_basics
+namespace BasicTemplate
 {
     public class ContractTemplate : Neo.SmartContract.Framework.SmartContract
     {
