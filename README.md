@@ -23,13 +23,6 @@ Each category will contain orgainized snippets for each language
 
 <br>
 
-# [Handling Data Types](./HandlingDataTypes)
-### [C#](./HandlingDataTypes/csharp-handling-data-types)
-
-### [Python](./HandlingDataTypes/python-handling-data-types)
-
-<br>
-
 # [Storage](./Storage)
 ### [C#](./Storage/csharp-storage)
 - [Put and Get functionality](./Storage/csharp-storage/CSharpStorage.cs)
@@ -43,5 +36,12 @@ Each category will contain orgainized snippets for each language
 - [Retrieveing data from Transaction Outputs](./Transactions/csharp-transactions/TransactionOutputs.cs)
 
 ### [Python](./Transactions/python-transactions)
+
+<br>
+
+# [Handling Data Types](./HandlingDataTypes)
+### [C#](./HandlingDataTypes/csharp-handling-data-types)
+
+### [Python](./HandlingDataTypes/python-handling-data-types)
 
 <br>
