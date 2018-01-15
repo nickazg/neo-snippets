@@ -13,7 +13,7 @@ Currently Neo development information is all over the place and sometimes hard t
 
 The structure is laid out below into sub-categories. Under each category there is a basic README.md with a summary of how its used and where to get started. 
 
-Each category will contain orgainized snippets for each language
+Each category will contain orgainized snippets for each language. External links to other repo's are included.
 
 # [Basics](./Basics)
 ### [C#](./Basics/csharp-basics)
