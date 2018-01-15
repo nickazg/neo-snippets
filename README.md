@@ -45,3 +45,13 @@ Each category will contain orgainized snippets for each language
 ### [Python](./HandlingDataTypes/python-handling-data-types)
 
 <br>
+
+# [Contract Examples](./Basics)
+### [C#](./Basics/csharp-basics)
+- [Redpulse *(external)*](https://github.com/RedPulse/rpx-smart-contract/blob/master/RPX_Sales/RPX_Sales.cs)
+- [Qlink *(external)*](https://github.com/qlinkDev/Contracts/blob/master/QlinkToken.cs)
+- [Trinity *(external)*](https://github.com/trinity-project/trinity/blob/master/contract/trinity-contract/nep5_contract/Contract1.cs)
+
+### [Python](./Basics/python-basics)
+
+<br>
