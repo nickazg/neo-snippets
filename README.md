@@ -51,7 +51,11 @@ Each category will contain orgainized snippets for each language
 - [Redpulse *(external)*](https://github.com/RedPulse/rpx-smart-contract/blob/master/RPX_Sales/RPX_Sales.cs)
 - [Qlink *(external)*](https://github.com/qlinkDev/Contracts/blob/master/QlinkToken.cs)
 - [Trinity *(external)*](https://github.com/trinity-project/trinity/blob/master/contract/trinity-contract/nep5_contract/Contract1.cs)
+- [Turing Complete Smart Contract *(external)*](https://github.com/Nikolaj-K/turing-complete-smart-contract/blob/master/contract.cs)
+- [Imusify *(external)*](https://github.com/imusify/smart-contract-incentify/blob/master/contract/ImusifyToken.cs)
+- [Phantasma *(external)*](https://github.com/Relfos/phantasma/blob/master/PhantasmaContract/PhantasmaContract.cs)
 
 ### [Python](./Basics/python-basics)
-
+- [NeoAuth *(external)*](https://github.com/neoauth/smart-contract/blob/master/src/NeoAuth.py)
+- [Neo Smart IOT *(external)*](https://github.com/Splyse/neo-smart-iot/blob/master/elcaro-contract.py)
 <br>
