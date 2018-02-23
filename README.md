@@ -18,10 +18,10 @@ Each category will contain orgainized snippets for each language. External links
 # [Basics](./Basics)
 ### [C#](./Basics/csharp-basics)
 - [BasicTemplate](./Basics/csharp-basics/BasicTemplate.cs)
-- [NEP5 Template *(External)*](https://github.com/neo-project/examples-csharp/blob/master/ICO_Template/ICO_Template.cs)
+- [NEP-5 Template *(External)*](https://github.com/neo-project/examples-csharp/blob/master/ICO_Template/ICO_Template.cs)
 
 ### [Python](./Basics/python-basics)
-- [NEP5 Template *(External)*](https://github.com/lllwvlvwlll/proposals/blob/feature/NEP5Updates/nep-5/NEP5Template.py)
+- [NEP-5 Template *(External)*](https://github.com/lllwvlvwlll/proposals/blob/feature/NEP5Updates/nep-5/NEP5Template.py)
 - [NEX ICO Template *(External)*](https://github.com/neonexchange/neo-ico-template/blob/master/nex/token/crowdsale.py)
 <br>
 
@@ -30,7 +30,7 @@ Each category will contain orgainized snippets for each language. External links
 - [Put and Get functionality](./Storage/csharp-storage/CSharpStorage.cs)
 
 ### [Python](./Storage/python-storage)
-
+- [Wrapper for the default storage api, incl serialization](./Storage/python-storage/StorageManager.py)
 <br>
 
 # [Transactions](./Transactions)
